@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-06T06:19:39" hostname="johuigwon-ui-MacBookPro.local" time="0.022">
+  <properties/>
+  <testcase name="스캐너에 키보드가 아닌 문자열을 입력으로 설정" classname="AppTests" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
